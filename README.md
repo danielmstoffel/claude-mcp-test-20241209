@@ -1,1 +1,9 @@
-IyBDbGF1ZGUgTUNQIFRlc3QgUmVwb3NpdG9yeQoKVGhpcyByZXBvc2l0b3J5IHdhcyBjcmVhdGVkIHRvIHRlc3QgQ2xhdWRlJ3MgTUNQIGludGVncmF0aW9uIHdpdGggR2l0SHViLgoKIyMgRmVhdHVyZXMKCi0gR2l0SHViIEludGVncmF0aW9uCi0gQXV0b21hdGVkIGZpbGUgY3JlYXRpb24KLSBJc3N1ZSBtYW5hZ2VtZW50Cg==
+# Claude MCP Test Repository
+
+This repository was created to test Claude's MCP integration with GitHub.
+
+## Features
+
+- GitHub Integration
+- Automated file creation
+- Issue management
